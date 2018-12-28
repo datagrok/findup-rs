@@ -1,6 +1,6 @@
 # findup-rs
 
-_An implementation of [findup](https://github.com/datagrok/findup) in Rust. (Incomplete.)_
+_An implementation of [findup](https://github.com/datagrok/findup) in Rust. (Incomplete; I'm writing this while learning the Rust language. It "works," but needs better error handling and code organization.)_
 
 **findup** ("find up") locates a given filename in the nearest ancestor directory.
 
