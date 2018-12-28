@@ -1,0 +1,8 @@
+[package]
+name = "findup-rs"
+version = "0.1.0"
+authors = ["Michael F. Lamb <mike@datagrok.org>"]
+license = "AGPL-3.0-or-later"
+edition = "2018"
+
+[dependencies]
